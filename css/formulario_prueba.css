@@ -1,0 +1,481 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1304px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_formulario_prueba_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1304px;
+}
+
+#_bg__formulario_prueba_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1304px;
+	background:rgba(255,255,255,1);
+}
+
+
+#nuevo_formulario {
+	top: 180px;
+	left: 307px;
+	width: 261px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 30px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_bed_industry_s_standard_dummy_text_ever_since_ {
+	top: 236px;
+	left: 307px;
+	width: 848px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#191919;
+}
+
+#group_342 {
+	top: 823.47px;
+	left: 877px;
+	width: 255px;
+	height: 45px;
+}
+#group_341 {
+	top: 0px;
+	left: 0px;
+	width: 255px;
+	height: 45px;
+}
+#group_22 {
+	top: 0px;
+	left: 0px;
+	width: 255px;
+	height: 45px;
+}
+
+#rectangle_22 {
+	top: 0px;
+	left: 0px;
+	width: 255px;
+	height: 45px;
+	-ms-border-radius: 22.5px;
+	-o-border-radius: 22.5px;
+	-moz-border-radius: 22.5px;
+	-webkit-border-radius: 22.5px;
+	border-radius: 22.5px;
+	background:rgba(255,61,0,1);
+}
+
+
+#enviar {
+	top: 12px;
+	left: 103px;
+	width: 73px;
+	height: 35px;
+
+	font-family: Barlow;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_296 {
+	top: 783.47px;
+	left: 307px;
+	width: 825px;
+	height: 0px;
+}
+
+#line_16 {
+	top: 0px;
+	left: 0px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+#group_296_ek1 {
+	top: 481.48px;
+	left: 307px;
+	width: 825px;
+	height: 0px;
+}
+
+#line_16_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#nombre_y_apellido {
+	top: 367.48px;
+	left: 307px;
+	width: 283.59px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre {
+	top: 396.48px;
+	left: 307px;
+	width: 542px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+#rut_vendedor {
+	top: 367.48px;
+	left: 877px;
+	width: 115px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rut {
+	top: 396.48px;
+	left: 877px;
+	width: 257px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+#datos_del_vendedor_ {
+	top: 319.48px;
+	left: 309px;
+	width: 180px;
+	height: 35px;
+
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#002EFF;
+}
+
+
+#patente_veh_culo {
+	top: 569.47px;
+	left: 307px;
+	width: 136px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#patente {
+	top: 598.47px;
+	left: 307px;
+	width: 257px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+#modelo_veh_culo {
+	top: 569.47px;
+	left: 878px;
+	width: 132px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+#group_524 {
+	top: 598.47px;
+	left: 877px;
+	width: 255px;
+	height: 45px;
+}
+
+#modelo {
+	top: 0px;
+	left: 0px;
+	width: 257px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+#arrow_down {
+	top: 11px;
+	left: 221px;
+	width: 24px;
+	height: 24px;
+}
+
+#union {
+	top: 5px;
+	left: 0px;
+	width: 24px;
+	height: 13.04px;
+}
+
+
+#color_veh_culo {
+	top: 669.47px;
+	left: 308px;
+	width: 119px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+#group_526 {
+	top: 698.47px;
+	left: 307px;
+	width: 255px;
+	height: 45px;
+}
+
+#color {
+	top: 0px;
+	left: 0px;
+	width: 257px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+#arrow_down_ek1 {
+	top: 11px;
+	left: 221px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek1 {
+	top: 5px;
+	left: 0px;
+	width: 24px;
+	height: 13.04px;
+}
+
+
+#marca_veh_culo {
+	top: 569.47px;
+	left: 593px;
+	width: 124px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+#group_525 {
+	top: 598.47px;
+	left: 592px;
+	width: 255px;
+	height: 45px;
+}
+
+#marca {
+	top: 0px;
+	left: 0px;
+	width: 257px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+#arrow_down_ek2 {
+	top: 11px;
+	left: 221px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek2 {
+	top: 5px;
+	left: 0px;
+	width: 24px;
+	height: 13.04px;
+}
+
+
+#datos_del_veh_culo_ {
+	top: 521.47px;
+	left: 309px;
+	width: 171px;
+	height: 35px;
+
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#002EFF;
+}
+
+#group_2147 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 100px;
+}
+#group_1525 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 100px;
+}
+
+#rectangle_114 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 100px;
+}
+
+#group_332 {
+	top: 25px;
+	left: 307px;
+	width: 65.79px;
+	height: 50px;
+}
+
+#fill_1 {
+	top: 1px;
+	left: 46px;
+	width: 19.74px;
+	height: 47.37px;
+}
+
+
+#fill_4 {
+	top: 0px;
+	left: 0px;
+	width: 46.05px;
+	height: 50px;
+}
+
+#group_773 {
+	top: 39px;
+	left: 890px;
+	width: 86px;
+	height: 22px;
+}
+
+#formulario {
+	top: 0px;
+	left: 0px;
+	width: 109px;
+	height: 35px;
+
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_720 {
+	top: 39px;
+	left: 1006px;
+	width: 126px;
+	height: 22px;
+}
+
+#lista_formulario {
+	top: 0px;
+	left: 0px;
+	width: 149px;
+	height: 35px;
+
+	font-family: Barlow;
+	font-size: 18px;
+	text-decoration: underline;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+form {
+	margin-left: 10%;
+	margin-top: 80%;
+	width: 600px;
+}
+
+#buttonEnviar {
+	font-size: 18px;
+	font-family: Barlow;
+	color: #fff;
+	border-radius: 22.5px;
+	background:rgba(255,61,0,1);
+	left: 0px;
+	width: 320px;
+	height: 45px;
+}

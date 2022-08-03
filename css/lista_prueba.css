@@ -1,0 +1,1268 @@
+/*
+	@name lista_prueba
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1304px;  display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_lista_prueba_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1304px;
+}
+
+#_bg__lista_prueba_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1304px;
+	background:rgba(255,255,255,1);
+}
+
+
+#lista_formulario {
+	top: 180px;
+	left: 307px;
+	width: 244px;
+	height: 57px;
+	font-family: Barlow;
+	font-size: 30px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_bed_industry_s_standard_dummy_text_ever_since_ {
+	top: 236px;
+	left: 307px;
+	width: 848px;
+	height: 57px;
+
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#mostrando_registros_del_1_al_10_de_un_total_de_10_registros_ {
+	top: 1149.47px;
+	left: 525px;
+	width: 411px;
+	height: 30px;
+
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_8 {
+	top: 428.48px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_11 {
+	top: 452.48px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_13 {
+	top: 600.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_15 {
+	top: 748.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_17 {
+	top: 896.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_19 {
+	top: 1044.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_12 {
+	top: 526.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_14 {
+	top: 674.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_16 {
+	top: 822.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_18 {
+	top: 970.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_20 {
+	top: 1118.47px;
+	left: 307px;
+	width: 825px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#patente_veh_culo {
+	top: 319.48px;
+	left: 669px;
+	width: 71px;
+	height: 49px;
+	padding: 10px;
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: center;
+	color:#191919;
+}
+
+
+#abcd12 {
+	top: 407.48px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek1 {
+	top: 480.48px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek2 {
+	top: 555.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek3 {
+	top: 629.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek4 {
+	top: 702.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek5 {
+	top: 777.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek6 {
+	top: 850.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek7 {
+	top: 922.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek8 {
+	top: 999.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#abcd12_ek9 {
+	top: 1071.47px;
+	left: 678px;
+	width: 66px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#marca_veh_culo {
+	top: 319.48px;
+	left: 762px;
+	width: 71px;
+	height: 49px;
+	padding: 10px;
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: center;
+	color:#191919;
+}
+
+
+#chevrolet {
+	top: 407.48px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek1 {
+	top: 480.48px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek2 {
+	top: 555.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek3 {
+	top: 629.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek4 {
+	top: 702.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek5 {
+	top: 777.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek6 {
+	top: 850.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek7 {
+	top: 922.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek8 {
+	top: 999.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#chevrolet_ek9 {
+	top: 1071.47px;
+	left: 771px;
+	width: 78px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#modelo_veh_culo {
+	top: 319.48px;
+	left: 867px;
+	width: 71px;
+	height: 49px;
+	padding: 10px;
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: center;
+	color:#191919;
+}
+
+
+#onix_sedan {
+	top: 407.48px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek1 {
+	top: 480.48px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek2 {
+	top: 555.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek3 {
+	top: 629.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek4 {
+	top: 702.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek5 {
+	top: 777.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek6 {
+	top: 850.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek7 {
+	top: 922.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek8 {
+	top: 999.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#onix_sedan_ek9 {
+	top: 1071.47px;
+	left: 865px;
+	width: 87px;
+	height: 27px;
+
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#color_veh_culo {
+	top: 319.48px;
+	left: 965px;
+	width: 71px;
+	height: 49px;
+	padding: 10px;
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: center;
+	color:#191919;
+}
+
+
+#rojo {
+	top: 407.48px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek1 {
+	top: 480.48px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek2 {
+	top: 555.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek3 {
+	top: 629.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek4 {
+	top: 702.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek5 {
+	top: 777.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek6 {
+	top: 850.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek7 {
+	top: 922.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek8 {
+	top: 999.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rojo_ek9 {
+	top: 1071.47px;
+	left: 983px;
+	width: 47px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#n_ombre {
+	top: 329.48px;
+	left: 392px;
+	width: 84px;
+	height: 30px;
+	padding: 10px;
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido {
+	top: 407.48px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek1 {
+	top: 480.48px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek2 {
+	top: 555.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek3 {
+	top: 629.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek4 {
+	top: 702.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek5 {
+	top: 777.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek6 {
+	top: 850.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek7 {
+	top: 922.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek8 {
+	top: 999.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#nombre_nombre_apellido_apellido_ek9 {
+	top: 1071.47px;
+	left: 321px;
+	width: 223px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#rut_vendedor {
+	top: 319.48px;
+	left: 562px;
+	width: 79px;
+	height: 49px;
+	padding: 10px;
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: center;
+	color:#191919;
+}
+
+
+#_12_345_678_9 {
+	top: 407.48px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek1 {
+	top: 480.48px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek2 {
+	top: 555.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek3 {
+	top: 629.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek4 {
+	top: 702.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek5 {
+	top: 777.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek6 {
+	top: 850.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek7 {
+	top: 922.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek8 {
+	top: 999.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#_12_345_678_9_ek9 {
+	top: 1071.47px;
+	left: 560px;
+	width: 96px;
+	height: 27px;
+	
+	font-family: Barlow;
+	font-size: 14px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#eliminar {
+	top: 329.48px;
+	left: 1061px;
+	width: 79px;
+	height: 30px;
+	
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+}
+
+#eliminar_ek1 {
+	top: 404.48px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek2 {
+	top: 774.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek1 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek3 {
+	top: 477.48px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek2 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek4 {
+	top: 850.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek3 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek5 {
+	top: 552.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek4 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek6 {
+	top: 922.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek5 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek7 {
+	top: 626.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek6 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek8 {
+	top: 996.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek7 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek9 {
+	top: 699.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek8 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#eliminar_ek10 {
+	top: 1068.47px;
+	left: 1078px;
+	width: 24px;
+	height: 24px;
+}
+
+#union_ek9 {
+	top: 0px;
+	left: 0.01px;
+	width: 24px;
+	height: 24px;
+}
+
+#group_2147 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 100px;
+}
+#group_1525 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 100px;
+}
+
+#rectangle_114 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 100px;
+}
+
+#group_332 {
+	top: 25px;
+	left: 307px;
+	width: 65.79px;
+	height: 50px;
+}
+
+#fill_1 {
+	top: 1px;
+	left: 46px;
+	width: 19.74px;
+	height: 47.37px;
+}
+
+
+#fill_4 {
+	top: 0px;
+	left: 0px;
+	width: 46.05px;
+	height: 50px;
+}
+
+#group_773 {
+	top: 39px;
+	left: 890px;
+	width: 86px;
+	height: 22px;
+}
+
+#formulario {
+	top: 0px;
+	left: 0px;
+	width: 109px;
+	height: 35px;
+	
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_720 {
+	top: 39px;
+	left: 1006px;
+	width: 126px;
+	height: 22px;
+}
+
+#lista_formulario_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 149px;
+	height: 35px;
+	
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#contenidoTabla {
+    margin-inline: auto;
+    margin-top: 25%;
+
+	
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,377 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 1137px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_formulario_prueba_mobile_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 1137px;
+}
+
+#_bg__formulario_prueba_mobile_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 1137px;
+	background:rgba(255,255,255,1);
+}
+
+
+#line_10 {
+	top: 511.47px;
+	left: 28px;
+	width: 320px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#line_11 {
+	top: 981.47px;
+	left: 28px;
+	width: 320px;
+	height: 1px;
+	background:#CCCCCC;
+}
+
+
+#nuevo_formulario {
+	top: 100px;
+	left: 26px;
+	width: 214px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 24px;
+	text-align: left;
+	color:#191919;
+}
+
+
+#lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_bed_industry_s_standard_dummy_text_ever_since_ {
+	top: 141px;
+	left: 26px;
+	width: 345px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#191919;
+}
+
+#patente {
+	top: 336.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+#marca {
+	top: 336.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+#modelo {
+	top: 336.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+#color {
+	top: 336.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+
+#rut {
+	top: 336.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+
+#rectangle_23 {
+	top: 426.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+#datos_del_vendedor_ {
+	top: 255.47px;
+	left: 28px;
+	width: 180px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#002EFF;
+}
+
+
+
+
+
+#rectangle_24 {
+	top: 626.47px;
+	left: 28px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+
+
+
+#nombre {
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+	font-family: Barlow;
+	font-size: 16px;
+	text-align: left;
+	color:#191919;
+	
+}
+
+#group_524 {
+	top: 806.47px;
+	left: 28px;
+	width: 320px;
+	height: 45px;
+}
+
+#rectangle_19 {
+	top: 0px;
+	left: 0px;
+	width: 322px;
+	height: 47px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #999999;
+	background:rgba(255,255,255,1);
+}
+
+#arrow_down {
+	top: 11px;
+	left: 282px;
+	width: 24px;
+	height: 24px;
+}
+
+#union {
+	top: 5px;
+	left: 0px;
+	width: 24px;
+	height: 13.04px;
+}
+
+
+
+
+#group_526 {
+	top: 896.47px;
+	left: 28px;
+	width: 320px;
+	height: 45px;
+}
+
+
+
+
+
+#datos_del_veh_culo_ {
+	left: 28px;
+	width: 171px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#002EFF;
+}
+
+#group_344 {
+	top: 1021.47px;
+	left: 28px;
+	width: 320px;
+	height: 45px;
+}
+#group_342 {
+	top: 0px;
+	left: 0px;
+	width: 320px;
+	height: 45px;
+}
+#group_341 {
+	top: 0px;
+	left: 0px;
+	width: 320px;
+	height: 45px;
+}
+#buttonEnviar {
+	font-size: 18px;
+	font-family: Barlow;
+	color: #fff;
+	border-radius: 22.5px;
+	background:rgba(255,61,0,1);
+	left: 0px;
+	width: 320px;
+	height: 45px;
+}
+
+
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 60px;
+	background:rgba(0,46,255,1);
+}
+
+#group_332 {
+	top: 17px;
+	left: 26px;
+	width: 35px;
+	height: 26.6px;
+}
+
+#fill_1 {
+	top: 1px;
+	left: 25px;
+	width: 10.5px;
+	height: 25.2px;
+}
+
+
+#fill_4 {
+	top: 0px;
+	left: 0px;
+	width: 24.5px;
+	height: 26.6px;
+}
+
+#group_773 {
+	top: 19px;
+	left: 116px;
+	width: 86px;
+	height: 22px;
+}
+
+#formulario {
+	top: 0px;
+	left: 0px;
+	width: 109px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 18px;
+	text-decoration: underline;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_720 {
+	top: 19px;
+	left: 222px;
+	width: 126px;
+	height: 22px;
+}
+
+#lista_formulario {
+	top: 0px;
+	left: 0px;
+	width: 149px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Barlow;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+form {
+	margin-left: 10%;
+	margin-top: 80%;
+	width: 600px;
+}
